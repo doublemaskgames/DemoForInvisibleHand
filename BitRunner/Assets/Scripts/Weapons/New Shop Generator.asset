@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fee64ad86f02bd24f9f34470c0ec91e9, type: 3}
+  m_Name: New Shop Generator
+  m_EditorClassIdentifier: 
+  DeveloperNote: 
+  weapon:
+  - {fileID: 11400000, guid: f023660724d755248b9aec5d213ba709, type: 2}
+  - {fileID: 11400000, guid: 775f2532c876b804e87141668ce4d9f5, type: 2}
+  - {fileID: 11400000, guid: 7e7e330bc00ce3d4aa9143a74788d588, type: 2}
+  - {fileID: 11400000, guid: 06880cc406a6c6a4ab36605538c19dd1, type: 2}
+  - {fileID: 11400000, guid: a319d7cc7aba1124cb2051e160e4a62f, type: 2}
+  - {fileID: 11400000, guid: 2066c848ee3d188449191ebb8c67737f, type: 2}
+  activeWeapons: []
